@@ -78,7 +78,7 @@ client.on("messageCreate", async message => {
 	}
 	
 })
-client.login("OTI4MDMxNDE1OTQ4NDMxNDAx.YdS2mw.LJra-SDRfLjW-gt5Kb0XbkpSAuE");
+client.login("Add token here");
 
 const sequelize = new Sequelize('database','user','password', {
 	host: 'localhost',
