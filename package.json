@@ -1,0 +1,16 @@
+{
+  "name": "clockinbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "sequelize": "^6.12.5",
+    "sqlite3": "^5.0.2"
+  }
+}
